@@ -1,2 +1,2 @@
 # Job-Search-Web-App
-Monster is your source for jobs and career opportunities. Search for jobs, read career advice from job experts, and find hiring and recruiting advice.
+Job Search Web App is your source for jobs and career opportunities. Search for jobs, read career advice from job experts, and find hiring and recruiting advice.
